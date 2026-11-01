@@ -1,5 +1,7 @@
 # linkedin-Automation
 
+![stack: TypeScript](https://img.shields.io/badge/stack-TypeScript-3178C6) ![stack: CSS](https://img.shields.io/badge/stack-CSS-1572B6) ![stack: HTML](https://img.shields.io/badge/stack-HTML-E34F26) ![stack: PowerShell](https://img.shields.io/badge/stack-PowerShell-555)
+
 AI-powered LinkedIn automation platform that helps professionals create, schedule, and analyze content for growth.
 
 ## Overview
